@@ -1,0 +1,227 @@
+bikeid,birth year,start station name,end station name,bikeid count per start station
+42146,1963,Oakland Ave,Sip Ave,224
+40910,1970,Hamilton Park,Grove St PATH,1733
+42223,1977,Hilltop,JC Medical Center,455
+42495,1962,Harborside,Morris Canal,1574
+42473,1971,Liberty Light Rail,Liberty Light Rail,1606
+42442,1953,City Hall,City Hall,1367
+42131,1995,Marin Light Rail,Marin Light Rail,1702
+42109,1994,Hamilton Park,Fairmount Ave,1733
+42246,1971,Lafayette Park,Heights Elevator,285
+42331,1977,Brunswick & 6th,Paulus Hook,617
+42349,1987,Essex Light Rail,Essex Light Rail,539
+39059,1993,Newport Pkwy,Newport Pkwy,2656
+42295,1981,Jersey & 3rd,Harborside,820
+34386,1993,Brunswick St,Brunswick St,576
+42386,1987,Brunswick & 6th,Riverview Park,617
+42289,1973,Brunswick & 6th,Newark Ave,617
+42123,1989,Grove St PATH,Newport Pkwy,2037
+42380,1988,Harborside,Newport Pkwy,1574
+42130,1989,Christ Hospital,Dixon Mills,230
+42278,1961,Warren St,Morris Canal,1001
+42200,1964,Dey St,Lincoln Park,232
+42264,1988,City Hall,Brunswick St,1367
+42437,1954,York St,Manila & 1st,409
+42448,1995,Hoboken Ave at Monmouth St,Hoboken Ave at Monmouth St,487
+42108,1982,Baldwin at Montgomery,Harborside,591
+42580,1989,Columbus Drive,JC Medical Center,816
+42334,1982,Newport Pkwy,Manila & 1st,2656
+42366,1992,Columbus Drive,Hamilton Park,816
+42242,1976,JC Medical Center,Jersey & 6th St,1565
+38511,1987,Columbus Drive,Columbus Drive,816
+42151,1988,Hamilton Park,Newport Pkwy,1733
+42208,1964,Van Vorst Park,City Hall,995
+42210,1964,Van Vorst Park,JC Medical Center,995
+42308,1984,McGinley Square,Sip Ave,742
+42474,1964,Columbus Dr at Exchange Pl,Newport PATH,1204
+42195,1986,Brunswick & 6th,Grove St PATH,617
+42582,1964,Washington St,Newport PATH,888
+40790,1964,Washington St,Newport PATH,888
+42135,1964,Warren St,Grove St PATH,1001
+42417,1993,Newport Pkwy,Newport Pkwy,2656
+42507,1964,Newark Ave,Van Vorst Park,1108
+42321,1984,Brunswick & 6th,Grove St PATH,617
+42111,1980,Monmouth and 6th,Grove St PATH,575
+42248,1963,Washington St,Liberty Light Rail,888
+42338,1989,Christ Hospital,Dixon Mills,230
+42565,1988,Harborside,Columbus Drive,1574
+42624,1984,Journal Square,Sip Ave,287
+42191,1987,York St,Grove St PATH,409
+42409,1984,Sip Ave,McGinley Square,1575
+42171,1996,Baldwin at Montgomery,City Hall,591
+42244,1966,Oakland Ave,Oakland Ave,224
+42406,1988,Hamilton Park,Grove St PATH,1733
+42613,1971,Brunswick & 6th,Brunswick St,617
+42186,1971,Brunswick St,Brunswick & 6th,576
+42541,1953,Astor Place,Sip Ave,491
+19999,1977,Hilltop,JC Medical Center,455
+42358,1989,Christ Hospital,Montgomery St,230
+42290,1988,Van Vorst Park,Newport Pkwy,995
+42317,2001,Astor Place,Sip Ave,491
+42181,1971,Liberty Light Rail,Liberty Light Rail,1606
+42161,1993,Hamilton Park,City Hall,1733
+42454,1971,Christ Hospital,Sip Ave,230
+42189,1994,Fairmount Ave,Morris Canal,393
+42403,1996,Newport PATH,Harborside,1131
+42526,1979,Hamilton Park,Lincoln Park,1733
+42322,1984,Baldwin at Montgomery,Van Vorst Park,591
+41356,1996,Warren St,Lincoln Park,1001
+42533,1970,Essex Light Rail,Morris Canal,539
+42422,1992,Montgomery St,Grand St,606
+42519,1994,Columbus Dr at Exchange Pl,Fairmount Ave,1204
+42579,1989,Christ Hospital,Montgomery St,230
+42142,1977,Jersey & 6th St,Hamilton Park,630
+42239,1984,Grove St PATH,Hamilton Park,2037
+42401,1979,Union St,Liberty Light Rail,271
+42183,1984,Grand St,Grand St,589
+42364,1986,Communipaw & Berry Lane,Astor Place,183
+42429,1984,Hamilton Park,Manila & 1st,1733
+42211,1993,Grove St PATH,Pershing Field,2037
+42174,1996,Astor Place,Paulus Hook,491
+42286,1984,Van Vorst Park,Van Vorst Park,995
+42281,1974,Jersey & 6th St,Jersey & 6th St,630
+42230,1977,Monmouth and 6th,Monmouth and 6th,575
+42279,1996,Columbus Dr at Exchange Pl,Harborside,1204
+42341,1990,Harborside,Liberty Light Rail,1574
+42374,1992,Liberty Light Rail,Liberty Light Rail,1606
+42480,1988,Grove St PATH,Hamilton Park,2037
+42128,1983,Monmouth and 6th,Jersey & 3rd,575
+42369,1992,Oakland Ave,Oakland Ave,224
+42226,1962,Newport Pkwy,Essex Light Rail,2656
+42546,1986,Dey St,Liberty Light Rail,232
+42323,1992,Hoboken Ave at Monmouth St,Hoboken Ave at Monmouth St,487
+42542,1990,Grand St,Newport Pkwy,589
+42198,1984,Journal Square,McGinley Square,287
+42363,2001,Sip Ave,Communipaw & Berry Lane,1575
+42544,1987,JC Medical Center,Lafayette Park,1565
+42235,1984,Newark Ave,Baldwin at Montgomery,1108
+42268,1989,JC Medical Center,Columbus Drive,1565
+42306,1977,Hilltop,JC Medical Center,455
+42536,1968,Marin Light Rail,Heights Elevator,1702
+42400,1989,JC Medical Center,Columbus Drive,1565
+42337,1995,Brunswick St,JC Medical Center,576
+21648,1984,Baldwin at Montgomery,City Hall,591
+42190,1964,Dey St,Sip Ave,232
+42122,1991,Harborside,JC Medical Center,1574
+42562,1984,Warren St,Grove St PATH,1001
+42245,1988,Jersey & 3rd,Hamilton Park,820
+42521,1982,Grand St,Columbus Drive,589
+42503,1992,Oakland Ave,Riverview Park,224
+40517,1995,Brunswick St,Grove St PATH,576
+42119,1968,Paulus Hook,Marin Light Rail,953
+42300,1980,Lincoln Park,Lincoln Park,611
+42490,1995,Hoboken Ave at Monmouth St,Astor Place,487
+42154,1986,Columbus Dr at Exchange Pl,Hilltop,1204
+42443,1995,Brunswick St,Brunswick St,576
+42410,1990,Warren St,City Hall,1001
+42413,1967,Jersey & 3rd,Manila & 1st,820
+42326,1991,Jersey & 3rd,Paulus Hook,820
+20897,1994,Jersey & 6th St,Columbus Drive,630
+42575,1961,Grove St PATH,Lafayette Park,2037
+42517,1994,Columbus Dr at Exchange Pl,Monmouth and 6th,1204
+42330,1953,City Hall,Hamilton Park,1367
+42540,1975,Newport Pkwy,Washington St,2656
+42425,1967,Jersey & 3rd,Montgomery St,820
+42215,1964,JC Medical Center,Van Vorst Park,1565
+42383,1986,Lincoln Park,Union St,611
+42254,1981,Dixon Mills,Dixon Mills,543
+42192,1971,Grove St PATH,Newport Pkwy,2037
+42477,1973,Heights Elevator,Heights Elevator,400
+28207,1980,Newport Pkwy,Harborside,2656
+42453,1988,Grove St PATH,Hamilton Park,2037
+42601,1977,Brunswick & 6th,Grove St PATH,617
+42516,1982,Hoboken Ave at Monmouth St,Hoboken Ave at Monmouth St,487
+42399,1982,Hoboken Ave at Monmouth St,Hoboken Ave at Monmouth St,487
+42614,1991,Christ Hospital,Journal Square,230
+42120,1971,Christ Hospital,Christ Hospital,230
+42615,1989,Christ Hospital,Montgomery St,230
+42325,1964,Grove St PATH,Washington St,2037
+42304,1989,JC Medical Center,Columbus Drive,1565
+42530,1982,Hoboken Ave at Monmouth St,Hoboken Ave at Monmouth St,487
+42439,1984,City Hall,Brunswick St,1367
+42376,1984,Journal Square,Sip Ave,287
+42421,1962,Columbus Dr at Exchange Pl,Harborside,1204
+42457,1996,Newport Pkwy,Harborside,2656
+21656,2001,Astor Place,Sip Ave,491
+42606,1984,Communipaw & Berry Lane,Marin Light Rail,183
+42163,1988,Hamilton Park,Columbus Dr at Exchange Pl,1733
+42332,1988,Marin Light Rail,Harborside,1702
+42302,1984,Dixon Mills,Dixon Mills,543
+42426,1973,Grove St PATH,Hamilton Park,2037
+42553,1973,Newark Ave,Manila & 1st,1108
+35706,1972,Newport PATH,Morris Canal,1131
+42475,1986,Washington St,Harborside,888
+42486,1992,Christ Hospital,Hoboken Ave at Monmouth St,230
+42197,1971,Christ Hospital,Sip Ave,230
+18220,1994,Sip Ave,McGinley Square,1575
+27686,1990,Warren St,Liberty Light Rail,1001
+42277,1984,Jackson Square,JC Medical Center,147
+27504,1994,Hoboken Ave at Monmouth St,Fairmount Ave,487
+42339,1988,Grove St PATH,Hamilton Park,2037
+42271,1992,Hilltop,Washington St,455
+43079,1979,Montgomery St,Pershing Field,606
+18283,1989,Glenwood Ave,Columbus Dr at Exchange Pl,348
+39600,1996,City Hall,Newark Ave,1367
+39372,1984,Hoboken Ave at Monmouth St,Newport PATH,487
+43866,1986,Montgomery St,Liberty Light Rail,606
+42319,1985,Morris Canal,Marin Light Rail,1147
+41367,1997,Morris Canal,York St,1147
+15049,2001,Sip Ave,Lafayette Park,1575
+33974,1996,Sip Ave,Bergen Ave,1575
+28325,1994,Newport Pkwy,Montgomery St,2656
+16471,1984,Essex Light Rail,Montgomery St,539
+15607,1963,Hilltop,Oakland Ave,455
+41730,1963,Oakland Ave,Sip Ave,224
+30336,1990,Dey St,Liberty Light Rail,232
+15803,1989,Oakland Ave,Dey St,224
+40224,1975,Washington St,Washington St,888
+17526,1970,Newport PATH,Hamilton Park,1131
+39239,1948,Hamilton Park,JC Medical Center,1733
+21374,1982,McGinley Square,Manila & 1st,742
+39160,1991,McGinley Square,Sip Ave,742
+41160,1963,Oakland Ave,Sip Ave,224
+29181,1971,Grove St PATH,Newark Ave,2037
+35124,1990,Sip Ave,Hilltop,1575
+38226,1984,Sip Ave,McGinley Square,1575
+18351,1994,Sip Ave,Fairmount Ave,1575
+32094,1983,JC Medical Center,Dixon Mills,1565
+28321,1996,Bergen Ave,Liberty Light Rail,605
+28205,1989,Newport Pkwy,Jersey & 6th St,2656
+26933,1989,Newport Pkwy,Jersey & 6th St,2656
+28012,1995,Columbus Dr at Exchange Pl,Manila & 1st,1204
+21444,1979,Liberty Light Rail,Marin Light Rail,1606
+40620,1988,Hoboken Ave at Monmouth St,Hoboken Ave at Monmouth St,487
+43361,1972,Harborside,Harborside,1574
+31659,1992,Hilltop,Brunswick St,455
+44243,1993,City Hall,Grove St PATH,1367
+17702,1976,Hilltop,Baldwin at Montgomery,455
+44229,1995,Christ Hospital,Brunswick St,230
+44234,1989,Washington St,Paulus Hook,888
+44230,1974,Pershing Field,Pershing Field,411
+44225,1995,5 Corners Library,Pershing Field,189
+18203,1978,Essex Light Rail,Morris Canal,539
+44271,1979,Harborside,Harborside,1574
+44239,1992,Morris Canal,Harborside,1147
+44227,1994,Dey St,Newport PATH,232
+44327,1986,Newport Pkwy,Manila & 1st,2656
+44345,1994,Sip Ave,Fairmount Ave,1575
+44337,1983,Fairmount Ave,Hoboken Ave at Monmouth St,393
+44414,1971,Grove St PATH,Hamilton Park,2037
+44381,1992,Hilltop,Brunswick St,455
+44366,1990,Riverview Park,Christ Hospital,233
+44427,1989,Liberty Light Rail,Marin Light Rail,1606
+44418,1994,Dey St,Newport Pkwy,232
+44358,1976,Hilltop,Baldwin at Montgomery,455
+44333,1989,Fairmount Ave,Sip Ave,393
+44375,1947,Heights Elevator,Hamilton Park,400
+44367,1990,JC Medical Center,Brunswick & 6th,1565
+44424,1963,Brunswick St,Morris Canal,576
+29961,1953,Hamilton Park,City Hall,1733
+44348,1986,Columbus Dr at Exchange Pl,Columbus Dr at Exchange Pl,1204
+44421,1994,Glenwood Ave,Grove St PATH,348
+44426,1990,Heights Elevator,Riverview Park,400
+44336,1992,Liberty Light Rail,Newport Pkwy,1606
+44433,1988,City Hall,Columbus Dr at Exchange Pl,1367
+44369,1981,Leonard Gordon Park,Glenwood Ave,90
+44371,1991,Dey St,Dey St,232
+29855,1992,Marin Light Rail,Columbus Drive,1702
